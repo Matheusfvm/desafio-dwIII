@@ -3,11 +3,12 @@ body.home {
 }/* O background do arquivo home é diferente dos outros arquivos */
 
 div {
-  margin: 0px 305px 0px 300px;
-}
+  width: 900px;
+} 
 
 body {
-  background-image: url(../public/fundo.png);
+  background-image: url(../public/fundo2.png);
+  margin-left: 20%;  
 }
 
 span.link {
@@ -19,7 +20,7 @@ span.link {
 }
 
 .capa {
-  margin: 20px 0px 0px 0px;
+  margin-top: 20px;
 }
 
 .rodape {
