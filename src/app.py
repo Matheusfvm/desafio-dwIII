@@ -15,5 +15,5 @@ def quem():
 def contatos():
   return render_template("contatos.html")
 
-# if __name__ == "__main__":
-app.run#(debug=True)
+if __name__ == "__main__":
+  app.run(debug=True)
