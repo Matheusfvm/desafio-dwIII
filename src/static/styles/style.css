@@ -1,0 +1,27 @@
+body.home {
+  background-image: url(../public/fundo.png);
+}/* O background do arquivo home é diferente dos outros arquivos */
+
+div {
+  margin: 0px 305px 0px 300px;
+}
+
+body {
+  background-image: url(../public/fundo.png);
+}
+
+span.link {
+  float: right; margin-top: 55px;
+}
+
+.logo {
+  margin-top: 15px;
+}
+
+.capa {
+  margin: 20px 0px 0px 0px;
+}
+
+.rodape {
+  margin-top: 50px; text-align: center;
+}
